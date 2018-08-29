@@ -2,7 +2,7 @@
 //  LCSlotMachineSuperView.m
 //  LCLuckyCoffee
 //
-//  Created by Mac on 2017/1/11.
+//  Created by Mac on 2017/11/11.
 //  Copyright © 2017年 Mr.Gao. All rights reserved.
 //
 
